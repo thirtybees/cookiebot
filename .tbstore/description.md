@@ -1,1 +1,1 @@
-The thirty bees Cookiebot module will help to make your thirty bees site GDPR compliant by letting you control the cookies that are placed on a users computer. 
+The thirty bees Cookiebot module will help to make your thirty bees site GDPR compliant by letting you control the cookies that are placed on a users computer.
