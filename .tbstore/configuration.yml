@@ -1,0 +1,13 @@
+module_name: Cookiebot
+compatible_versions: 1.0.0+
+author: thirty bees
+category: front office
+tags:
+  - gdpr
+  - compliance
+  - cookiebot
+description_short: The thirty bees Cookiebot module will help your shop become GDPR compliant.
+description: description.md
+images:
+  - image-1.png
+license: AFL
