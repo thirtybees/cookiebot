@@ -1,1 +1,7 @@
-*livezillaproxy*.zip
+.idea
+vendor
+/translations/*
+!/translations/index.php
+config.xml
+config*.xml
+cookiebot-*.zip
