@@ -57,6 +57,7 @@ class CookieBot extends Module
      *
      * @throws PrestaShopDatabaseException
      * @throws PrestaShopException
+     * @throws Adapter_Exception
      * @since 1.0.0
      */
     public function install()
@@ -104,6 +105,7 @@ class CookieBot extends Module
 
     /**
      * @throws PrestaShopException
+     * @throws HTMLPurifier_Exception
      */
     protected function postProcess()
     {

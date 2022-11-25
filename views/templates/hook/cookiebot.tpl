@@ -16,5 +16,5 @@
  * @license   http://opensource.org/licenses/afl-3.0.php  Academic Free License (AFL 3.0)
 *}
 {if !empty($cookieBotDomainId)}
-  <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="{$cookieBotDomainId|escape:'htmlall'}" type="text/javascript" async></script>
+  <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-keepinline data-cbid="{$cookieBotDomainId|escape:'htmlall'}" type="text/javascript" async></script>
 {/if}
