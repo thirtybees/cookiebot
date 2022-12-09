@@ -44,6 +44,7 @@ class CookieBot extends Module
 
         $this->controllers = ['cookiedeclaration'];
         $this->bootstrap = true;
+        $this->need_instance = false;
 
         parent::__construct();
         $this->displayName = $this->l('Cookiebot');
